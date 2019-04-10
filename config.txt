@@ -1,6 +1,6 @@
 owner=561643377154719776
 prefix=2
-game=Music || 2play By tripleX
+game=2play
 stayinchannel=true
 songinstatus=true
 token=NTYzNTM4NjAzMjYzNzg3MDI3.XK3qng.Xlsw6Vijk19UeNOzfyPrq-GNdHc
